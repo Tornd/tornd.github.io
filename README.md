@@ -9,8 +9,8 @@
   <body>
     <h1>Official Website of the *Aternos* server<h1>
     <h2>How to join server:<h2>
-    <p2>  Account name: * <br>
-        Password: *
+    <p2>  Account name: minecraftserversforf <br>
+        Password: dQw4w9WgXcQ
         <br><a href="https://www.aternos.org/">Start server</a><p2>
     <h2><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&t">Rickroll</a><h2>
   <body>
