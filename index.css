@@ -1,21 +1,21 @@
 body {
-  background-color: black;
+  background-color: white;
 }
 
 h1 {
-  color: white;
+  color: black;
   text-align: center;
   font-family: arial;
-  font-size: 90px;
+  font-size: 80x;
 }
 h2{
-  color: white;
+  color: black;
   text-align: left;
   font-family: arial;
-  font-size: 70px;}
+  font-size: 50x;}
 p{
-  color: white;
+  color: black
   text-align: left;
   font-family: arial;
-  font-size: 50px;}
+  font-size: 30x;}
   
